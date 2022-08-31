@@ -6,6 +6,6 @@ import org.junit.jupiter.api.Test;
 public class FirstTests {
     @Test
     void firstTest() {
-        Assertions.assertTrue(3 > 2);    
+        Assertions.assertTrue(3 > 2);
     }
 }
